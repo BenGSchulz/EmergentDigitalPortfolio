@@ -74,7 +74,7 @@ p {
   top: 0;
   left: 5%;
   font: 3vh monospace;
-  text-align: justify;
+  text-align: left;
   white-space: pre-line;
   line-height: 5vh;
 }
